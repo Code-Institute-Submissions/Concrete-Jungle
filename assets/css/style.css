@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:100,200,300,400,500,600,700|Montserrat:100,200,300,400,500,600,700');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+/* ....................................Navbar Styles*/
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(132, 156, 135, 0.85);
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: white; 
+}
+
+/* .....................................Footer Styles*/
+
+footer {
+    background-color: #343a40;
+    color: whitesmoke;
+    padding: 1rem
+}
+
+.footer-heading {
+    font-family: 'Roboto Mono', monospace;
+}
+
+.footer-text {
+    font-size: 12px;
+}
+
+.social-links li a i {
+    padding: 6px;
+    font-size: 20px;
+    line-height: 7px;
+    text-align: center;
+    color: whitesmoke;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    color: rgba(132, 156, 135, 0.85);

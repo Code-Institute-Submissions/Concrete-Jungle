@@ -23,3 +23,12 @@ and branding direction of Concrete Jungle. The website has been built to be resp
 across all device types.
 
 Click here to view the intial wire frames mock ups for the project, which were made for three device types. (add link)
+
+
+## Credits
+-----
+Index cover photo is an amalgamation on two fotos to which I give the following credits:
+1. Jonathan Gross (https://www.flickr.com/photos/jonathangrossphotography/17377335542)
+2. Pixabay Free Image - no attribution required (https://pixabay.com/photos/bamboo-forest-nature-green-plant-828703/)
+
+Website used to blend photos: https://funny.pho.to/es/double-exposure-effect/
