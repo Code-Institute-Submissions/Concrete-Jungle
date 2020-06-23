@@ -13,6 +13,14 @@ body {
     text-transform: uppercase;
 }
 
+.large-headings {
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 3rem;
+    background-color: rgba(61, 75, 59, 0.5);
+    padding: 1rem;
+}
+
 /* ....................................Navbar*/
 
 .navbar-dark .navbar-nav .nav-link {
@@ -96,4 +104,19 @@ footer {
 .index-events-list {
      list-style-type: none;
      padding: 0;
+}
+
+.events-heading-container {
+     height: 50vh;
+    background: url("../images/events-bg-image.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
 }
