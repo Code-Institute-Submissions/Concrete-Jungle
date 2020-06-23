@@ -45,3 +45,29 @@ footer {
 
 .social-links li a i:hover {
     color: rgba(132, 156, 135, 0.85);
+}
+
+/* ...................................Index cover image section*/
+
+.index-photo-container {
+    height: 75vh;
+    background: url("../images/indexcoverphoto.jpg") no-repeat bottom right fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.index-slogan h1 {
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 3rem;
+    background-color: rgba(61, 75, 59, 0.5);
+    padding: 1rem;
+}
