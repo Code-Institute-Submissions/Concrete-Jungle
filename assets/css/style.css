@@ -106,6 +106,8 @@ footer {
      padding: 0;
 }
 
+/* .......................................Events Page*/
+
 .events-heading-container {
      height: 50vh;
     background: url("../images/events-bg-image.jpg") no-repeat center center fixed; 
@@ -119,4 +121,19 @@ footer {
     justify-content: center;
 
     position: relative;
+}
+
+.events-body-container {
+    background-color: rgba(132, 156, 135, 0.85)
+}
+
+.card-events {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #c7cec8;
+    color: #343a40;
+}
+
+.card-dates {
+    font-family: 'Roboto Mono', monospace;
 }
