@@ -216,3 +216,25 @@ footer {
 
     position: relative;
 }
+
+.listen-body-container {
+    background-color: rgba(132, 156, 135, 0.85)
+}
+
+.listen-box {
+    background-color: blue;
+    margin: 30px 10px;
+    color: whitesmoke;
+}
+
+.listen-box-image {
+    margin: 15px;
+    max-height: 50px;
+    max-width: 50px;
+    border-radius: 50%;
+    overflow: hidden;    
+}
+
+.listen-box h3 {
+    font-family: 'Roboto Mono', monospace;
+}
