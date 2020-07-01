@@ -35,7 +35,6 @@ body {
 }
 
 
-
 /* ....................................Navbar*/
 
 .navbar-dark .navbar-nav .nav-link {
@@ -222,7 +221,7 @@ footer {
 }
 
 .listen-box {
-    background-color: blue;
+    background-color:#c7cec8;
     margin: 30px 10px;
     color: whitesmoke;
 }
@@ -238,3 +237,15 @@ footer {
 .listen-box h3 {
     font-family: 'Roboto Mono', monospace;
 }
+
+.listen-box a {
+    text-decoration: none;
+    color: #343a40;
+    letter-spacing: 1px
+}
+
+.listen-box a:hover {
+    text-decoration: underline;
+}
+
+
