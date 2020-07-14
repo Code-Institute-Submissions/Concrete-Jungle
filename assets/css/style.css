@@ -24,7 +24,7 @@ body {
 
 .introduction-block {
     color: whitesmoke;
-    background-color: rgba(61, 75, 59, 0.5);
+    background-color: rgba(132, 156, 135, 0.85);
     padding: 1rem;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -132,7 +132,7 @@ footer {
 }
 
 .carousel-container {
-    border: 10px rgba(61, 75, 59, 0.5) solid;
+    border: 10px rgba(132, 156, 135, 0.85) solid;
 }
 
 .carousel-caption h1 {
@@ -184,13 +184,17 @@ footer {
 
 .bookings-form {
     color: whitesmoke;
-    background-color: rgba(61, 75, 59, 0.5);
+    background-color: rgba(132, 156, 135, 0.85);
     padding: 2rem;
 }
 
 .bookings-form h4 {
     font-family: 'Roboto Mono', monospace;
     text-align: center;
+}
+
+.form-item {
+    background-color: #c7cec8;
 }
 
 .book-button {
