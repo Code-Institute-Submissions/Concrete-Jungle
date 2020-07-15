@@ -185,7 +185,7 @@ footer {
 .bookings-form-section {
     background: url(../images/bookings-image.jpg) no-repeat center top fixed;
     background-size: cover;
-    height: 130vh;
+    height: 100vh;
 }
 
 .bookings-subscribe-forms {
@@ -216,7 +216,7 @@ footer {
 .subscribe-form-section {
     background: url(../images/subscribe-bg-image.jpg) no-repeat center top fixed;
     background-size: cover;
-    height: 130vh;
+    height: 100vh;
 }
 
 /* .......................................Listen Page*/
