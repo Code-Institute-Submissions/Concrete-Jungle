@@ -182,13 +182,13 @@ footer {
     height: 120vh;
 }
 
-.bookings-form {
+.bookings-subscribe-forms {
     color: whitesmoke;
     background-color: rgba(132, 156, 135, 0.85);
     padding: 2rem;
 }
 
-.bookings-form h4 {
+.bookings-subscribe-forms h4 {
     font-family: 'Roboto Mono', monospace;
     text-align: center;
 }
@@ -205,6 +205,13 @@ footer {
     border-radius: 20px;
 }
 
+/* .......................................Subscribe Page*/
+
+.subscribe-form-section {
+    background: url(../images/subscribe-bg-image.jpg) no-repeat center top fixed;
+    background-size: cover;
+    height: 130vh;
+}
 
 /* .......................................Listen Page*/
 
