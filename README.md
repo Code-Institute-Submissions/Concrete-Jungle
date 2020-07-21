@@ -66,12 +66,21 @@ Click here to view the intial wire frames mock ups for the project, which were m
 - Windows 10 Image Viewer/Editor
     - The standard Windows 10 image viewer/editor was used to resize the icon images on the 
 - [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+    - Balsamiq was used to create the wireframes during the design process.
 
 ## Credits
 -----
+- ### Code
+    - The CSS code for the index hero image, events header image and listen header image came from [this blog post on csstricks.com](https://css-tricks.com/perfect-full-page-background-image/)
+    - The HTML and CSS code used for the footer social media section was taken from the Code Institute walk-through Resume project, developed by tutor, Matt Rudge
+    - [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System, as well as to create 
+    the Bookings/Subscribe forms, the Navbar, the About Us and Carousel, as well as style and position various elements throughout the website.   
 
--  ### Imagery
+- ### Content
+
+    - All content was written by the developer Jonathan Meaney   
+
+- ### Imagery
 
     - Index hero image is an amalgamation of two photos:
         - ['Concrete Jungle' by Jonathan Gross](https://www.flickr.com/photos/jonathangrossphotography/17377335542)
@@ -88,3 +97,4 @@ Click here to view the intial wire frames mock ups for the project, which were m
         -  Hip Hop Running: ['Illmatic' Album Cover](https://en.wikipedia.org/wiki/Illmatic)
         -  Soul Deep Beauties: ['Nuyorican Soul' Album Cover](https://en.wikipedia.org/wiki/Nuyorican_Soul_(album))
         -  Brazilian Barbecue: ['Ipanema Beach, Rio de Janeiro' free photo on Needpix.com - no attribution required](https://www.needpix.com/photo/1436381/ipanemabeach-riodejaneiro-brazilian-brazil-carioca)
+    - Concrete Jungle DJ Photos: All photos were taken by photographer Virginia Santos, for which the developer has rights to use.
