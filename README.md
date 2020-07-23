@@ -1,10 +1,14 @@
-# Concrete Jungle DJ Collective Website
+<h1 align="center"><strong>Concrete Jungle DJ Collective Website</strong></h1>
+
+[View live project here](https://jonathanmeaney-lmk.github.io/Concrete-Jungle/index.html)
 
 Concrete Jungle is a Madrid-based collective of DJs that organize and run music events for 
 both public and private functions. This website is a marketing and branding tool for Concrete Jungle that
 allows visitors to discover more about the collective and what kind of music they play, and keep up to date with upcoming 
 events. Visitors can also use to site to make bookings for public and private functions, subscribe to regular updates by email 
 and access links to listen to Concrete DJ mixes and themed Spotify playlists.
+
+<h2 align="center"><img src="assets/images/screengrab.jpg" style="max-height:400px;"></h2>
 
 ## UX
 ----
@@ -93,11 +97,52 @@ The intial wireframes mock ups for each device type can be viewed here: [large s
     -  Convert Image was used to transform colored photos to black and white (About Us carousel images, Bookings, Subscribe, Listen and Events main/background images)
 - [IMG 2 GO:](https://www.img2go.com/)
     - IMG 2 GO was used to compress large photo files (About Us Carousel Images, Bookings, Subsscribe, and Events main/background image)
-- Microsoft Photos
-    - The standard Windows 10 image viewer/editor was used to resize the icon images on the 
+- [Microsoft Photos](https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab)
+    - The standard Windows 10 image viewer/editor was used to resize the icon images on the listen page.
 - [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the wireframes during the design process.
 
+## Testing
+-------
+
+-   The Website was tested on Google Chrome, Microsoft Edge, Firefox and Safari browsers.
+-   The website was viewed on a variety of devices such as Desktop, Laptop, Tablet, iPhone 6s, iPhone SE, Huawei Y6, Huawei P9 and Samsung Phones.
+-   A large amount of testing was done to ensure that all pages were linking correctly.
+-   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+
+### <strong>Validation</strong> 
+
+The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+
+- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+    - The Markup Validator only threw up one warning regarding the date tab on the 'Bookings' Section
+        - Warning message: "The date input type is not supported in all browsers. Please be sure to test, and consider using a polyfill."
+        - However, this has not been an issue on all browsers tested. 
+    - One error regarding the input attribute for the 'Book Now' and 'Sign Up' buttons was highlighted and ammended (type="input" changed to type="submit").
+
+-  [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+
+    - No errors in the style.css file were detected after running the CSS code through the validator.
+
+### <strong>Known Bugs</strong> 
+
+-   On iPhone SE, the footer section is positioned incorrectly and overlaps with the forms on the 'Booking' and 'Subscribe' sections.
+-   On several mobile devices, the footer jumps up behind the form when typing text into the text input areas, however it does not impede the completion of the form.
+-   On Huawei Y6, the header/background images for the 'Events' and 'Bookings' sections do not load (on other Huawei devices, this bug did not occur)
+-   On Firefox and Safari, the 'Robot Mono' space font used for the logo and headings is not appearing. Both browsers deploy the back-up 'Monospace' font. 
+
+## Deployment
+-----
+### GitHub Pages
+
+The project was deployed to GitHub Pages using the following steps...
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/jonathanmeaney-lmk/Concrete-Jungle)
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+5. The page will automatically refresh.
+6. Scroll back down through the page to locate the now published site [link](https://jonathanmeaney-lmk.github.io/Concrete-Jungle/index.html) in the "GitHub Pages" section.
 ## Credits
 -----
 - ### <strong>Code</strong>
