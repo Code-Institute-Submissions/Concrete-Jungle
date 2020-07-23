@@ -201,6 +201,8 @@ footer {
 
 .form-item {
     background-color: #c7cec8;
+    border-radius: 3px;
+    border: 0px;
 }
 
 .book-button {
@@ -211,12 +213,21 @@ footer {
     border-radius: 20px;
 }
 
+.event-box {
+    width: 199px;
+}
+
+
 /* .......................................Subscribe Page*/
 
 .subscribe-form-section {
     background: url(../images/subscribe-bg-image.jpg) no-repeat center top fixed;
     background-size: cover;
     height: 130vh;
+}
+
+.form-check {
+    text-align: left;
 }
 
 /* .......................................Listen Page*/

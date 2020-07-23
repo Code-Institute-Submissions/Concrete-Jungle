@@ -47,7 +47,7 @@
     <!-- Bookings form -->
 
             <div class="row justify-content-center">
-            <form class="bookings-subscribe-forms text-center">
+            <form class="bookings-subscribe-forms text-center" onsubmit="alert('Booking Complete! We will be touch shortly to confirm everything.')">
                 <h4>Make a Booking:</h4> 
                 <hr class="block-divider">
                 <div class="form-group">
@@ -57,7 +57,7 @@
                     <input type="email" class="form-item" placeholder="Enter e-mail" name="email" required>
                 </div>
                 <div class="form-group">
-                    <select class="form-control-sm form-item">
+                    <select class="form-control-sm form-item  event-box">
                             <option>Event Type</option>
                             <option>Club/Bar night</option>
                             <option>PR Event</option>
@@ -66,6 +66,7 @@
                             <option>Other</option>
                     </select>
                 </div>
+                <div class="d-block d-md-none"><p>Date:</p></div>
                 <div class="form-group">
                     <input class="form-item" type="date" placeholder="Date" name="date" required>
                 </div>
