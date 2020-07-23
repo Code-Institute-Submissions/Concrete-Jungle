@@ -24,7 +24,7 @@ find what they want. The color scheme, imagery, fonts have been chosen in order 
 and branding direction of Concrete Jungle. The website has been built to be responsive to ensure a positive user experience 
 across all device types.
 
-The intial wireframes mock ups for each device type can be viewed here: [large screen](wireframes/wireframes-large.pdf)
+The intial wireframes mock ups for each device type can be viewed here: [large screen](wireframes/wireframes-large.pdf), [mobile](wireframes/wireframes-mobile.pdf), [tablet](wireframes/wireframes-tablet.pdf)
 
 - ### <strong>Functionality</strong>
     - <strong>As a user, I want to learn more about Concrete Jungle:</strong>
