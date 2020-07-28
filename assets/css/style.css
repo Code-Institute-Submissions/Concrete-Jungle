@@ -21,7 +21,6 @@ body {
     padding: 1rem;
 }
 
-
 .introduction-block {
     color: whitesmoke;
     background-color: rgba(132, 156, 135, 0.85);
@@ -129,7 +128,6 @@ footer {
      padding: 0;
 }
 
-
 /* .......................................About Us Page*/
 
 .about-us-section {
@@ -179,7 +177,6 @@ footer {
     font-family: 'Roboto Mono', monospace;
 }
 
-
 /* .......................................Bookings Page*/
 
 .bookings-form-section {
@@ -216,7 +213,6 @@ footer {
 .event-box {
     width: 199px;
 }
-
 
 /* .......................................Subscribe Page*/
 
