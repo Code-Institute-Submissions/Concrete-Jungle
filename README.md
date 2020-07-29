@@ -8,7 +8,7 @@ allows visitors to discover more about the collective and what kind of music the
 events. Visitors can also use to site to make bookings for public and private functions, subscribe to regular updates by email 
 and access links to listen to Concrete DJ mixes and themed Spotify playlists.
 
-<h2 align="center"><img src="assets/images/screengrab.jpg" style="max-height:400px;"></h2>
+<h2 align="center"><img src="assets/images/screen-grab.jpg" style="max-height:400px;"></h2>
 
 ## UX
 ----

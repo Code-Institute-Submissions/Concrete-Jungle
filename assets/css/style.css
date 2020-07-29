@@ -89,7 +89,7 @@ footer {
 
 .index-photo-container {
     height: 75vh;
-    background: url("../images/indexcoverphoto.jpg") no-repeat bottom right fixed; 
+    background: url("../images/index-cover-photo.jpg") no-repeat bottom right fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
