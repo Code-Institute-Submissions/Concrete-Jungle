@@ -70,6 +70,10 @@ The intial wireframes mock ups for each device type can be viewed here: [large s
         -   The homepage and 'About Us' images are a merging of photos of city and jungle landscapes, in tune with the Concrete Jungle brand and designed to be eyecatching. 
         -   The rest of the imagery throughout the site are action photos of the Concrete Jungle DJs playing live. These photos are in black and white to align with the style and general color scheme of the website.   
 
+-   ### <strong>Alt tags note</strong>
+    -   The developer has purposefully ommitted alt tags for the Mixes/Playlists images on the Listen Page, as they function only as icons and therefore should not read by screen readers, as that would negatively impact user 
+    experiece for users with impaired vision.
+
 ## Technologies Used
 -----
 ### <strong>Languages Used</strong>
@@ -158,13 +162,13 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ## Deployment
 -----
 
-### Development 
+### <strong>Development</strong> 
 
 -   The project was developed using the [Gitpod online IDE](https://www.gitpod.io/).
 -   The project was regularly commited using the Git command line interface on Gitpod.
 -   After each commit, the project was pushed to Github for deployment.
 
-### GitHub Pages
+### <strong>GitHub Pages</strong> 
 
 The project was deployed to GitHub Pages using the following steps...
 
