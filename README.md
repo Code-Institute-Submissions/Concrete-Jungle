@@ -30,7 +30,7 @@ across all device types.
 
 The intial wireframes mock ups for each device type can be viewed here: [large screen](wireframes/wireframes-large.pdf), [mobile](wireframes/wireframes-mobile.pdf), [tablet](wireframes/wireframes-tablet.pdf)
 
-- ### <strong>Functionality</strong>
+- ### <strong>User Stories/Functionality</strong>
     - <strong>As a user, I want to learn more about Concrete Jungle:</strong>
         - From the homepage, users can easily navigate to the 'About Us' section to learn more about Concrete Jungle; they can
         easily navigate to the 'Listen' section to discover more of the type of music they play ('Listen' section functionality explained in more detail below)
@@ -110,6 +110,30 @@ The intial wireframes mock ups for each device type can be viewed here: [large s
 -   A large amount of testing was done to ensure that all pages were linking correctly.
 -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
+### <strong>Functionality Testing</strong> 
+
+-   Navbar
+    - Navbar links were checked on all pages and all working correctly
+    - The navbar toggler device was checked on mobile devices and is working correctly
+-   Footer
+    - Each social media link was checked and all are linking to the correct page (all, except Instagram, are test pages, as mentioned in User Stories-Functionality section)
+-   Homepage
+    -   The three feature buttons ('Get Tix/More Info', 'Make a Booking', 'Go to Playlists') were all checked and all are linking to correct location
+-   About Us Page   
+    -   The carousel created using Bootstrap was checked on several devices and working correctly
+-   Events Page
+    - All six 'Get Tix' buttons were checked and are linking to the correct location ([Resident Advisor test page](https://www.residentadvisor.net/events/1389754), as mentioned in User Stories-Functionality section)
+    - The three Links to Guest DJ Souncloud/Mixcloud pages were checked and are working correctly
+-   Bookings Page
+    - Bookings form was checked on several devices and all form sections are working correctly, aside from some known bugs on some devices (see below)
+    - The 'Book Now' button was checked and prompts a pop-up box to confirm is complete, as intended. 
+-   Subscribe Page
+    - Subscribe form was checked on several devices and all form sections, including all check boxes, are working correctly, aside from some known bugs on some devices (see below)
+    - The 'Sign Up' button was checked and prompts a pop-up box to confirm booking is complete, as intended. 
+-   Listen Page
+    - Four links in the 'Mixes' section are linking correctly to the designated Soundcloud pages.
+    - Four links in the 'Playlists' section are linking correctly to the designated Spotify pages.
+
 ### <strong>Validation</strong> 
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
@@ -133,6 +157,13 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ## Deployment
 -----
+
+### Development 
+
+-   The project was developed using the [Gitpod online IDE](https://www.gitpod.io/).
+-   The project was regularly commited using the Git command line interface on Gitpod.
+-   After each commit, the project was pushed to Github for deployment.
+
 ### GitHub Pages
 
 The project was deployed to GitHub Pages using the following steps...
