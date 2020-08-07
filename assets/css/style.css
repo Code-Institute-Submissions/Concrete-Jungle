@@ -182,13 +182,13 @@ footer {
 .bookings-form-section {
     background: url(../images/bookings-image.jpg) no-repeat center top fixed;
     background-size: cover;
-    height: 130vh;
 }
 
 .bookings-subscribe-forms {
     color: whitesmoke;
     background-color: rgba(132, 156, 135, 0.85);
     padding: 2rem;
+    margin-bottom: 30px;
 }
 
 .bookings-subscribe-forms h4 {
@@ -219,7 +219,6 @@ footer {
 .subscribe-form-section {
     background: url(../images/subscribe-bg-image.jpg) no-repeat center top fixed;
     background-size: cover;
-    height: 130vh;
 }
 
 .form-check {
