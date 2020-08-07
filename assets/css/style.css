@@ -69,6 +69,10 @@ footer {
     font-size: 12px;
 }
 
+.footer-text a {
+    color: inherit;
+}
+
 .social-links li a i {
     padding: 6px;
     font-size: 20px;
@@ -184,11 +188,18 @@ footer {
     background-size: cover;
 }
 
+
 .bookings-subscribe-forms {
     color: whitesmoke;
     background-color: rgba(132, 156, 135, 0.85);
     padding: 2rem;
     margin-bottom: 30px;
+}
+
+@media only screen and (min-width: 992px) {
+    .bookings-subscribe-forms {
+        margin-bottom: 100px; 
+    }
 }
 
 .bookings-subscribe-forms h4 {

@@ -35,8 +35,8 @@ The intial wireframes mock ups for each device type can be viewed here: [large s
         - From the homepage, users can easily navigate to the 'About Us' section to learn more about Concrete Jungle; they can
         easily navigate to the 'Listen' section to discover more of the type of music they play ('Listen' section functionality explained in more detail below)
         - On the homepage features section, users can immediately see upcoming events and get a brief description of what Concrete Jungle is about from the 'Bookings' and 'Listen' features.
-        - On the footer section, users can also find contact details (in case they want to get in touch to find out more) and links to Concrete Jungle's social media pages, 
-        where they can discover more media content (presently, aside from the Instagram page, all of those are test pages, but have been included to demonstrate functionality)
+        - On the footer section, users can also find contact details (in case they want to get in touch to find out more); hyperlinks to the phone number and email have been included to improve UX and function as a powerful call-to-action tool.
+        - On the footer section, links to Concrete Jungle's social media pages, where they can discover more media content (presently, aside from the Instagram page, all of those are test pages, but have been included to demonstrate functionality)
     - <strong>As a user, I want to find out more about upcoming events and buy tickets</strong>
         - When landing on the homepage, users can immediately see info on upcoming events, where the 'Get tix/more info' button guides them to the 'Upcoming Events' section. They can also reach the 'Upcoming Events' section 
         from the navigation bar.
@@ -121,6 +121,7 @@ The intial wireframes mock ups for each device type can be viewed here: [large s
     - The navbar toggler device was checked on mobile devices and is working correctly
 -   Footer
     - Each social media link was checked and all are linking to the correct page (all, except Instagram, are test pages, as mentioned in User Stories-Functionality section)
+    - The phone and email hyperlinks have been checked and are working correctly.
 -   Homepage
     -   The three feature buttons ('Get Tix/More Info', 'Make a Booking', 'Go to Playlists') were all checked and all are linking to correct location
 -   About Us Page   
