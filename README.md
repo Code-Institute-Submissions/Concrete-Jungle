@@ -33,26 +33,26 @@ The intial wireframes mock ups for each device type can be viewed here: [large s
 - ### <strong>User Stories/Functionality</strong>
     - <strong>As a user, I want to learn more about Concrete Jungle:</strong>
         - From the homepage, users can easily navigate to the 'About Us' section to learn more about Concrete Jungle; they can
-        easily navigate to the 'Listen' section to discover more of the type of music they play ('Listen' section functionality explained in more detail below)
+        easily navigate to the 'Listen' section to discover more of the type of music they play ('Listen' section functionality explained in more detail below).
         - On the homepage features section, users can immediately see upcoming events and get a brief description of what Concrete Jungle is about from the 'Bookings' and 'Listen' features.
         - On the footer section, users can also find contact details (in case they want to get in touch to find out more); hyperlinks to the phone number and email have been included to improve UX and function as a powerful call-to-action tool.
-        - On the footer section, links to Concrete Jungle's social media pages, where they can discover more media content (presently, aside from the Instagram page, all of those are test pages, but have been included to demonstrate functionality)
+        - On the footer section, users can navigate to Concrete Jungle's social media pages, where they can discover more media content (presently, aside from the Instagram page, all of those are test pages, but have been included to demonstrate functionality).
     - <strong>As a user, I want to find out more about upcoming events and buy tickets</strong>
         - When landing on the homepage, users can immediately see info on upcoming events, where the 'Get tix/more info' button guides them to the 'Upcoming Events' section. They can also reach the 'Upcoming Events' section 
         from the navigation bar.
         - 'Upcoming Events' lists Concrete Jungle's upcoming events. Features here include: a 'Get Tix' Button which directs users to an external page to buy tickets (currently, the external page 
-        is just a [test page](https://www.residentadvisor.net/events/1389754) that has been included to demonstrate functionality)
+        is just a [test page](https://www.residentadvisor.net/events/1389754) that has been included to demonstrate functionality).
         - Another interesting feature on this page allows users to discover more about Guest DJs. In the events which include a guest DJ, a link has been included to their Soundcloud or Mixcloud pages, 
         which allows users to listen to their mixes and original music. 
     - <strong>As a user, I want to book Concrete Jungle for an event</strong>
-        - From the homepage users can easily reach the 'Bookings' section in two ways: (i) From the Navigation Bar or (ii) From the 'Bookings' feature on the homepage (where a 'Make Booking' button has been included)
-        - The 'Bookings' section contains an bookings form that is easy to fill out, where users are required to enter their name, email, event type, date. They can also include any additional info before pressing
+        - From the homepage users can easily reach the 'Bookings' section in two ways: (i) From the Navigation Bar or (ii) From the 'Bookings' feature on the homepage (where a 'Make Booking' call-to-action button has been included).
+        - The 'Bookings' section contains a bookings form that is easy to fill out, where users are required to enter their name, email, event type, date. They can also include any additional info before pressing
         the 'Book Now' button to complete the booking proccess. 
     - <strong>As a user, I want to hear more of the music Concrete Jungle play, download/listen to Spotify playlists or live mixes</strong>
-        - From the homepage users can easily navigate to the 'Listen' section in two ways: (i) From the navigation bar or (ii) From the 'Playlists' feature on the homepage (where a 'Go to Playlists' button has been included)
-        - From the 'Listen' section, 'Mixes' and 'Playlists' are devided into two clear sections. Each section contains a link to the external mix/or playlist with an eye-catching icon reprsentative of the mix/playlist in question.
+        - From the homepage users can easily navigate to the 'Listen' section in two ways: (i) From the navigation bar or (ii) From the 'Playlists' feature on the homepage (where a 'Go to Playlists' call-to-action button has been included).
+        - From the 'Listen' section, 'Mixes' and 'Playlists' are divided into two clear sections. Each section contains a link to the external mix or playlist with an eye-catching icon reprsentative of the mix/playlist in question.
         - For mixes, users are redirected (in a seperate tab) to a mixcloud page containing the mix in question; for Spotify Playlists, users are redirected (in a seperate tab) to the Spotify Website or App and playlist in question (some of these links are test links, but 
-        have been included to demonstrate functionality)
+        have been included to demonstrate functionality).
     - <strong>As a user, I want a sign up to the Concrete Jungle's mailing list</strong>
         - Users can easily find the 'Sign Up' section from the navigation bar.
         - The 'Sign Up' section contains a sign-up form that is easy to fill out, where users are required to enter their name and email.
@@ -72,7 +72,7 @@ The intial wireframes mock ups for each device type can be viewed here: [large s
 
 -   ### <strong>Alt tags note</strong>
     -   The developer has purposefully ommitted alt tags for the Mixes/Playlists images on the Listen Page, as they function only as icons and therefore should not read by screen readers, as that would negatively impact user 
-    experiece for users with impaired vision.
+    experience for users with impaired vision.
 
 ## Technologies Used
 -----
@@ -84,57 +84,59 @@ The intial wireframes mock ups for each device type can be viewed here: [large s
 ### <strong>Frameworks, Libraries & Programs Used</strong>
 
 - [Bootstrap:](https://getbootstrap.com/)
-    -   Bootstrap was used to assist with the responsiveness, positioning and styling of elements of the website.
+    -   Bootstrap was used to assist with the responsiveness, positioning and styling of elements of the website. 
 - [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Roboto Mono' and 'Montserrat' fonts into the style.css file which is used on all pages throughout the project.
+    - Google fonts was used to import the 'Roboto Mono' and 'Montserrat' fonts into the style.css file which is used on all pages throughout the project.
 - [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 - [jQuery:](https://jquery.com/)
-    - jQuery came with Bootstrap and has been used to create the navbar toggler function in JavaScript.
+    - jQuery came with Bootstrap and has been used to create the navbar toggler function in JavaScript; and the form completion dialogue box.
+- [Gitpod:](https://www.gitpod.io//)
+    - Gitpod was used as the IDE to develop the project.
 - [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 - [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
 - [Funny Photo:](https://funny.pho.to/es/double-exposure-effect/)
-    - The Double Exposure effect on Funny Photo was used to merge the city-jungle photos to create the hero image on the Homepage and background image on the About Us page
+    - The Double Exposure effect on Funny Photo was used to merge the city-jungle photos to create the hero image on the Homepage and background image on the About Us page.
 - [Convert Image:](https://convertimage.net/)
-    -  Convert Image was used to transform colored photos to black and white (About Us carousel images, Bookings, Subscribe, Listen and Events main/background images)
+    -  Convert Image was used to transform colored photos to black and white (About Us carousel images, Bookings, Subscribe, Listen and Events main/background images).
 - [IMG 2 GO:](https://www.img2go.com/)
-    - IMG 2 GO was used to compress large photo files (About Us Carousel Images, Bookings, Subsscribe, and Events main/background image)
+    - IMG 2 GO was used to compress large photo files (About Us carousel Images, Bookings, Subscribe, and Events main/background image).
 - [Microsoft Photos](https://www.microsoft.com/en-us/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab)
-    - The standard Windows 10 image viewer/editor was used to resize the icon images on the listen page.
+    - The standard Windows 10 image viewer/editor was used to resize the icon images on the listen page before uploading to the project.
 - [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the wireframes during the design process.
 
 ## Testing
 -------
 
--   The Website was tested on Google Chrome, Microsoft Edge, Firefox and Safari browsers.
+-   The website was tested on Google Chrome, Microsoft Edge, Firefox and Safari browsers.
 -   The website was viewed on a variety of devices such as Desktop, Laptop, Tablet, iPhone 6s, iPhone SE, Huawei Y6, Huawei P9 and Samsung Phones.
--   A large amount of testing was done to ensure that all pages were linking correctly.
+-   A large amount of testing was done to ensure that all pages were linking correctly, and buttons and forms sections were working as intended (more details below). 
 -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ### <strong>Functionality Testing</strong> 
 
 -   Navbar
-    - Navbar links were checked on all pages and all working correctly
-    - The navbar toggler device was checked on mobile devices and is working correctly
+    - Navbar links were checked on all pages and all working correctly.
+    - The navbar toggler device was checked on mobile devices and is working correctly.
 -   Footer
-    - Each social media link was checked and all are linking to the correct page (all, except Instagram, are test pages, as mentioned in User Stories-Functionality section)
+    - Each social media link was checked and all are linking to the correct page (all, except Instagram, are test pages, as mentioned in User Stories-Functionality section).
     - The phone and email hyperlinks have been checked and are working correctly.
 -   Homepage
-    -   The three feature buttons ('Get Tix/More Info', 'Make a Booking', 'Go to Playlists') were all checked and all are linking to correct location
+    -   The three feature buttons ('Get Tix/More Info', 'Make a Booking', 'Go to Playlists') were all checked and all are linking to correct location.
 -   About Us Page   
-    -   The carousel created using Bootstrap was checked on several devices and working correctly
+    -   The carousel created using Bootstrap was checked on several devices and working correctly.
 -   Events Page
     - All six 'Get Tix' buttons were checked and are linking to the correct location ([Resident Advisor test page](https://www.residentadvisor.net/events/1389754), as mentioned in User Stories-Functionality section)
-    - The three Links to Guest DJ Souncloud/Mixcloud pages were checked and are working correctly
+    - The three Links to Guest DJ Souncloud/Mixcloud pages were checked and are working correctly.
 -   Bookings Page
-    - Bookings form was checked on several devices and all form sections are working correctly, aside from some known bugs on some devices (see below)
-    - The 'Book Now' button was checked and prompts a pop-up box to confirm is complete, as intended. 
+    - Bookings form was checked on several devices and all form sections are working correctly.
+    - The 'Book Now' button was checked and prompts a dialogue box to confirm process is complete, as intended. 
 -   Subscribe Page
-    - Subscribe form was checked on several devices and all form sections, including all check boxes, are working correctly, aside from some known bugs on some devices (see below)
-    - The 'Sign Up' button was checked and prompts a pop-up box to confirm booking is complete, as intended. 
+    - Subscribe form was checked on several devices and all form sections, including all check boxes, are working correctly.
+    - The 'Sign Up' button was checked and prompts a dialogue box to confirm process is complete, as intended. 
 -   Listen Page
     - Four links in the 'Mixes' section are linking correctly to the designated Soundcloud pages.
     - Four links in the 'Playlists' section are linking correctly to the designated Spotify pages.
@@ -155,10 +157,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### <strong>Known Bugs</strong> 
 
--   On iPhone SE, the footer section is positioned incorrectly and overlaps with the forms on the 'Booking' and 'Subscribe' sections.
--   On several mobile devices, the footer jumps up behind the form when typing text into the text input areas, however it does not impede the completion of the form.
 -   On Huawei Y6, the header/background images for the 'Events' and 'Bookings' sections do not load (on other Huawei devices, this bug did not occur)
 -   On Firefox and Safari, the 'Robot Mono' space font used for the logo and headings is not appearing. Both browsers deploy the back-up 'Monospace' font. 
+-   On some mobile devices, the background images flicker/jump around when a user taps on the form to begin the fill-out proccess.
 
 ## Deployment
 -----
@@ -185,7 +186,7 @@ The project was deployed to GitHub Pages using the following steps...
     - The CSS code for the index hero image, events header image and listen header image came from [this blog post on csstricks.com](https://css-tricks.com/perfect-full-page-background-image/).
     - The HTML and CSS code used for the footer social media section was taken from the Code Institute walk-through Resume project, developed by tutor, Matt Rudge.
     - [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System, as well as to create 
-    the Bookings/Subscribe forms, the Navbar, the About Us and Carousel, as well as style and position various elements throughout the website.   
+    the Bookings/Subscribe forms and dialogue box, the Navbar and navbar toggler, the About Us carousel, as well as style and position various elements throughout the website.   
 
 - ### <strong>Content</strong>
 
